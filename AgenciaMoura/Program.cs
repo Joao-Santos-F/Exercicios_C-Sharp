@@ -103,14 +103,8 @@ void Sacar()
     Console.WriteLine($"Informe quanto o senhor deseja sacar:");
     
     float valor = float.Parse(Console.ReadLine());
-
-    if (valor <= 0)
-    {
-        Console.WriteLine($"O valor de saque não pode ser negativo ou zero");
-        return;
-    }
     
-    if (valor > saldos[idCliente])
+    if (valor > saldos[idCliente] && valor > 0)
     {
         Console.WriteLine($"Saldo para saque indisponível");
         return;
