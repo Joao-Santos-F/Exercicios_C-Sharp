@@ -1,0 +1,14 @@
+C:\Users\54060195898\Desktop\Exercícios\L02E05\bin\Debug\net9.0\L02E05.exe
+C:\Users\54060195898\Desktop\Exercícios\L02E05\bin\Debug\net9.0\L02E05.deps.json
+C:\Users\54060195898\Desktop\Exercícios\L02E05\bin\Debug\net9.0\L02E05.runtimeconfig.json
+C:\Users\54060195898\Desktop\Exercícios\L02E05\bin\Debug\net9.0\L02E05.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E05\bin\Debug\net9.0\L02E05.pdb
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.AssemblyInfoInputs.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.AssemblyInfo.cs
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.csproj.CoreCompileInputs.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\refint\L02E05.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.pdb
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\L02E05.genruntimeconfig.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E05\obj\Debug\net9.0\ref\L02E05.dll

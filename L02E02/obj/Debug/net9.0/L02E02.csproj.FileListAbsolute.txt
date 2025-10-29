@@ -1,0 +1,14 @@
+C:\Users\54060195898\Desktop\Exercícios\L02E02\bin\Debug\net9.0\L02E02.exe
+C:\Users\54060195898\Desktop\Exercícios\L02E02\bin\Debug\net9.0\L02E02.deps.json
+C:\Users\54060195898\Desktop\Exercícios\L02E02\bin\Debug\net9.0\L02E02.runtimeconfig.json
+C:\Users\54060195898\Desktop\Exercícios\L02E02\bin\Debug\net9.0\L02E02.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E02\bin\Debug\net9.0\L02E02.pdb
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.AssemblyInfoInputs.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.AssemblyInfo.cs
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.csproj.CoreCompileInputs.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\refint\L02E02.dll
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.pdb
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\L02E02.genruntimeconfig.cache
+C:\Users\54060195898\Desktop\Exercícios\L02E02\obj\Debug\net9.0\ref\L02E02.dll
