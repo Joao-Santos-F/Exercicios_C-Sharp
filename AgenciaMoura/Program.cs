@@ -77,10 +77,18 @@ void Depositar()
     { //cliente não encontrado
         return; //para a funcao
     }
+    
 
     //cliente encontrado
     Console.Write($"Valor para depósito: ");
     float Valor = float.Parse(Console.ReadLine());
+
+    if (Valor <=0)
+    {
+        Console.WriteLine($"Não aceitamos valores negativos ou 0");
+        return;
+    }
+
     saldos[idCliente] += Valor;
     Console.WriteLine($"Depósito de R${Valor:F2} realizado");
 

@@ -9,16 +9,16 @@ namespace PrimeiraClasse
     {
         public string nome;
 
-        public int idade;
+        public int idade = 0;
         public float altura;
 
         public void Ola()
         {
-            Console.WriteLine($"Eu sou {nome}, tenho {idade} e {altura} Metros");
+            Console.WriteLine($"Eu sou {nome}, tenho {idade} anos e {altura} Metros");
 
         }
 
-        public void tchau()
+        public void despedir()
         {
             Console.WriteLine($"Irei domir agora porque já são 00:00, boa noite !");
 
@@ -27,14 +27,23 @@ namespace PrimeiraClasse
         public void dormindo()
         {
             Console.WriteLine($"zzzzzzzzzzzzzz...");
-            Thread.Sleep(1500);
+            Thread.Sleep(3000);
         }
 
-        public void acordando()
+        public void envelhecer(int _id = 0)
         {
-            Console.WriteLine($"Slk, que tu ainda tá fazendo aqui?");
-            Console.WriteLine($"Fica me observando dormindo, tarado safado");
+            if (_id > 0)
+            {
+                idade += _id;
+            }
+            else
+            {
+                idade++;
+            }
             
+            Console.WriteLine($"Voce dormiu por 10 anos, agora tem {idade}");
+            
+
         }
     }
 

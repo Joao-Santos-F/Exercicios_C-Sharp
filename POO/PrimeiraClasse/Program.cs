@@ -1,6 +1,4 @@
-﻿using System.ComponentModel;
-using System.Runtime.Intrinsics.Arm;
-using PrimeiraClasse;
+﻿using PrimeiraClasse;
 
 // Console.WriteLine($" ==== PROGRAMA PRIMEIRA CLASSE ====");
 
@@ -14,6 +12,28 @@ using PrimeiraClasse;
 // Mclaren.ligar();
 // Console.WriteLine($"Aceleradno a {Mclaren.Marca} de {Mclaren.Potencia} Cv");
 //Mclaren.Acelerar();
+
+// Garrafa seila = new Garrafa();
+// seila.Cor = "Roxa";
+// seila.Capacidade = 500;
+// seila.Tamando = 27;
+// seila.Formato = "Arredondada";
+// seila.abrir();
+// seila.beber();
+
+// Garrafa Stanley = new Garrafa();
+// Stanley.Cor = "Cinza";
+// Stanley.Capacidade = 500;
+// Stanley.Tamando = 30;
+// Stanley.Formato = "Cilíndrico";
+// Stanley.abrir();
+// Stanley.beber();
+
+// Console.Write($"Abrindo a garrafa Stanley: ");
+// Stanley.abrir();
+
+// Console.Write($"Bebendo água da garrafa Stanley: ");
+// Stanley.beber();
 
 pessoa nova = new pessoa();
 nova.nome = "";
@@ -31,7 +51,7 @@ if (nova.idade >= 120)
     Console.WriteLine($"Tu é um vampiro? Digita sua idade certa.");
     return;
 }
-else if (nova.idade <=0)
+else if (nova.idade <= 0)
 {
     Console.WriteLine($"Tu acabou de nascer? Digita sua idade certa.");
     return;
@@ -54,6 +74,6 @@ else if (nova.altura <= 0.50)
 Console.Clear();
 
 nova.Ola();
-nova.tchau();
+nova.despedir();
 nova.dormindo();
-nova.acordando();
+nova.envelhecer(10);

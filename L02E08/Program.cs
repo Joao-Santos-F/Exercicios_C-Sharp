@@ -28,13 +28,13 @@ do
 
     switch (entrada)
     {
-        case "1":
+        case 1:
             opcao1();
             break;
-        case "2":
+        case 2:
             opcao2();
             break;
-        case "0":
+        case 0:
             Console.WriteLine("Saindo...");
             break;
         default:
@@ -42,4 +42,4 @@ do
             break;
     }
     
-} while (entrada != "0");
+} while (entrada != 0);
