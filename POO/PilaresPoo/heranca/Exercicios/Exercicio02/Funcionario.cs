@@ -10,5 +10,10 @@ namespace heranca
         public string nome = "";
 
         public int SalarioBase = 1852;
+
+        public float CalcularSalario()
+        {
+            return SalarioBase;
+        }
     }
 }

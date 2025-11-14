@@ -1,0 +1,14 @@
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.exe
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.deps.json
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.runtimeconfig.json
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.dll
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\bin\Debug\net9.0\Exerciciopolimorfismo.pdb
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.AssemblyInfoInputs.cache
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.AssemblyInfo.cs
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.dll
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\refint\Exerciciopolimorfismo.dll
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.pdb
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\Exerciciopolimorfismo.genruntimeconfig.cache
+C:\Users\54060195898\Desktop\Exerciciopolimorfismo\obj\Debug\net9.0\ref\Exerciciopolimorfismo.dll

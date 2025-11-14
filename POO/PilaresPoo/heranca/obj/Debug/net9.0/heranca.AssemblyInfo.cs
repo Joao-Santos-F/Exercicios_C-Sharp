@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("heranca")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d92051f36b7591ace21348e9c474fd7cdba222d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+211ec907d8b3908358187a4bbc7a52933db9e32f")]
 [assembly: System.Reflection.AssemblyProductAttribute("heranca")]
 [assembly: System.Reflection.AssemblyTitleAttribute("heranca")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
