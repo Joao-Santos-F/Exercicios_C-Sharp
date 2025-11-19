@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\54060195898\\Desktop\\Exerciciopolimorfismo\\Exerciciopolimorfismo.csproj",
+      "projectUniqueName": "C:\\Users\\54060195898\\Desktop\\Exercícios\\POO\\Exerciciopolimorfismo\\Exerciciopolimorfismo.csproj",
       "projectName": "Exerciciopolimorfismo",
-      "projectPath": "C:\\Users\\54060195898\\Desktop\\Exerciciopolimorfismo\\Exerciciopolimorfismo.csproj",
+      "projectPath": "C:\\Users\\54060195898\\Desktop\\Exercícios\\POO\\Exerciciopolimorfismo\\Exerciciopolimorfismo.csproj",
       "packagesPath": "C:\\Users\\54060195898\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\54060195898\\Desktop\\Exerciciopolimorfismo\\obj\\",
+      "outputPath": "C:\\Users\\54060195898\\Desktop\\Exercícios\\POO\\Exerciciopolimorfismo\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\54060195898\\AppData\\Roaming\\NuGet\\NuGet.Config"
