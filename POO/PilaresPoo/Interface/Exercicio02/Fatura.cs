@@ -37,6 +37,8 @@ namespace Exercicio02
 
         public void Imprimir()
         {
+            CalcularValorDivida();
+
             Console.WriteLine($@"
             Credor: {Credor}
             Devedor: {Devedor}
